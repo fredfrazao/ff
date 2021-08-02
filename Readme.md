@@ -4,10 +4,6 @@
 ##### Linkedin: https://www.linkedin.com/in/fredericofrazao/
 
 
- <div>
-  <a href="https://github.com/fredfrazao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredfrazao&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
-</div>
 
 ## Career Objective
 #### Seeking Site Reliability Engineer in an organisation where I can apply my thoughts and skills for the organisation and as my personal growth.
