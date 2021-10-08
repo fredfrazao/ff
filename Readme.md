@@ -9,7 +9,7 @@
 #### Seeking Site Reliability Engineer in an organisation where I can apply my thoughts and skills for the organisation and as my personal growth.
 
 ## Work History
-Role| site reliability engineering |
+Role| site reliability engineering Team Lead|
 ---------|----------|
 Company|	CloudMobility
 Duration|	July 2021 -> Present (current)
