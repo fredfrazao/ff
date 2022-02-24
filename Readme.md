@@ -3,16 +3,17 @@
 ##### GitHub: https://github.com/fredfrazao
 ##### Linkedin: https://www.linkedin.com/in/fredericofrazao/
 
-
-
-## Career Objective
-#### Seeking Site Reliability Engineer in an organisation where I can apply my thoughts and skills for the organisation and as my personal growth.
-
 ## Work History
 Role| site reliability engineering Team Lead|
 ---------|----------|
+Company|	Mercedes-benz.io
+Duration|	Jan 2022 -> Present (current)
+Technologies| 	ansible, k8s, helm charts, grafana, Prometheus, Alertmanager 
+##
+Role| site reliability engineering Team Lead|
+---------|----------|
 Company|	CloudMobility
-Duration|	July 2021 -> Present (current)
+Duration|	July 2021 -> December 2021
 Technologies| 	ansible, k8s, helm charts, grafana, Prometheus, Alertmanager 
 ##
 Role| Devops'/ site reliability engineering |
