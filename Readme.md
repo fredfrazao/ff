@@ -1,7 +1,14 @@
+
 ## Frederico Frazão
 ##### Contact: frederico.frazao@gmail.com
 ##### GitHub: https://github.com/fredfrazao
-##### Linkedin: https://www.linkedin.com/in/fredericofrazao/
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredericofrazao/)
+
+[![fredfrazao GitHub stats](https://github-readme-stats.vercel.app/api?username=fredfrazao&count_private=true&hide=stars,prs,issues,contribs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fredfrazao)
 
 ## Work History
 Role| site reliability engineering Team Lead|
