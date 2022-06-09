@@ -6,15 +6,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredericofrazao/)
 
-[![fredfrazao GitHub stats](https://github-readme-stats.vercel.app/api?username=fredfrazao&count_private=true&hide=stars,prs,issues,contribs&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fredfrazao)
 
 ## Work History
-Role| site reliability engineering Team Lead|
+Role| DevOps|
+---------|----------|
+Company|	WTX
+Duration|	Jun 2022 -> Present (current)
+
+##
+Role| Site Reliability Engineering Team Lead|
 ---------|----------|
 Company|	Mercedes-benz.io
-Duration|	Jan 2022 -> Present (current)
+Duration|	Jan 2022 -> May 2022
 Technologies| 	ansible, k8s, helm charts, grafana, Prometheus, Alertmanager 
 ##
 Role| site reliability engineering Team Lead|
@@ -114,7 +120,7 @@ Learning PowerShell 5<br>
 ## Skills
 MCP, Microsoft Specialist: Microsoft Azure Infrastructure Solutions.<br>
 
-• DevOP/ SRE<br>
+• DevOps/ SRE<br>
 • Microsoft Azure<br>
 • Microsoft Azure; High scalability Solution Architecture, Data Replication, Load Balancer, Virtualization Platforms<br>
 • Scripting \ Powershell<br>
