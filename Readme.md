@@ -11,10 +11,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fredfrazao)
 
 ## Work History
-Role| DevOps|
+Role| Senior DevOps|
+---------|----------|
+Company|	xgeeks
+Duration|	Out 2023 -> Present (current)
+
+Role| Senior DevOps / Intrastucture Lead|
 ---------|----------|
 Company|	WTX
-Duration|	Jun 2022 -> Present (current)
+Duration|	Jun 2022 -> Set 2023
+Technologies| Azure stack, k8s, helm, GitHub actions, Datadog, Terraform
 
 ##
 Role| Site Reliability Engineering Team Lead|
